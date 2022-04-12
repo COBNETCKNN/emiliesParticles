@@ -1,0 +1,158 @@
+[03-Apr-2022 14:29:55 UTC] PHP Parse error:  syntax error, unexpected ''https://nextparticle.nextco.d' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\functions.php on line 11
+[03-Apr-2022 14:29:56 UTC] PHP Parse error:  syntax error, unexpected ''https://nextparticle.nextco.d' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\functions.php on line 11
+[05-Apr-2022 17:07:48 UTC] PHP Parse error:  syntax error, unexpected ''; ?>" id="particles" alt="Log' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 7
+[05-Apr-2022 17:07:48 UTC] PHP Parse error:  syntax error, unexpected ''; ?>" id="particles" alt="Log' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 7
+[05-Apr-2022 17:07:48 UTC] PHP Parse error:  syntax error, unexpected ''; ?>" id="particles" alt="Log' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 7
+[05-Apr-2022 17:07:48 UTC] PHP Parse error:  syntax error, unexpected ''; ?>" id="particles" alt="Log' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 7
+[05-Apr-2022 17:08:30 UTC] PHP Parse error:  syntax error, unexpected ''; ?>" id="particles" alt="Log' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:08:30 UTC] PHP Parse error:  syntax error, unexpected ''; ?>" id="particles" alt="Log' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:08:30 UTC] PHP Parse error:  syntax error, unexpected ''; ?>" id="particles" alt="Log' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:08:30 UTC] PHP Parse error:  syntax error, unexpected ''; ?>" id="particles" alt="Log' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:09:14 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:09:14 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:09:14 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:09:14 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:10:04 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:10:04 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:10:04 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:10:04 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:11:30 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:11:30 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:11:30 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:11:30 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:11:58 UTC] PHP Parse error:  syntax error, unexpected ''; ?>." id="logo" alt="Logo" /' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 9
+[05-Apr-2022 17:11:58 UTC] PHP Parse error:  syntax error, unexpected ''; ?>." id="logo" alt="Logo" /' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 9
+[05-Apr-2022 17:11:58 UTC] PHP Parse error:  syntax error, unexpected ''; ?>." id="logo" alt="Logo" /' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 9
+[05-Apr-2022 17:11:58 UTC] PHP Parse error:  syntax error, unexpected ''; ?>." id="logo" alt="Logo" /' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 9
+[05-Apr-2022 17:12:08 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:12:08 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:12:08 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:12:09 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:13:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:13:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:13:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:13:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:14:08 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:14:08 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:14:08 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:14:08 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:14:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:14:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:14:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:14:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 5
+[05-Apr-2022 17:15:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:15:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:15:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:15:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:16:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:16:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:16:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:16:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 4
+[05-Apr-2022 17:18:07 UTC] PHP Warning:  Use of undefined constant particles - assumed 'particles' (this will throw an Error in a future version of PHP) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\page-example-one.php on line 4
+[05-Apr-2022 17:18:07 UTC] PHP Stack trace:
+[05-Apr-2022 17:18:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:0
+[05-Apr-2022 17:18:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:17
+[05-Apr-2022 17:18:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-blog-header.php:19
+[05-Apr-2022 17:18:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-includes\template-loader.php:106
+[05-Apr-2022 17:18:07 UTC] PHP Warning:  Use of undefined constant particles - assumed 'particles' (this will throw an Error in a future version of PHP) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\page-example-one.php on line 4
+[05-Apr-2022 17:18:07 UTC] PHP Stack trace:
+[05-Apr-2022 17:18:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:0
+[05-Apr-2022 17:18:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:17
+[05-Apr-2022 17:18:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-blog-header.php:19
+[05-Apr-2022 17:18:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-includes\template-loader.php:106
+[05-Apr-2022 17:19:43 UTC] PHP Fatal error:  Cannot redeclare particles_shortcode() (previously declared in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\functions.php:19) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 3
+[05-Apr-2022 17:19:43 UTC] PHP Stack trace:
+[05-Apr-2022 17:19:43 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:0
+[05-Apr-2022 17:19:43 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:17
+[05-Apr-2022 17:19:43 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-blog-header.php:13
+[05-Apr-2022 17:19:43 UTC] PHP   4. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-load.php:50
+[05-Apr-2022 17:19:43 UTC] PHP   5. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-config.php:77
+[05-Apr-2022 17:19:43 UTC] PHP   6. include() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-settings.php:555
+[05-Apr-2022 17:19:43 UTC] PHP Fatal error:  Cannot redeclare particles_shortcode() (previously declared in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\functions.php:19) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 3
+[05-Apr-2022 17:19:43 UTC] PHP Stack trace:
+[05-Apr-2022 17:19:43 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:0
+[05-Apr-2022 17:19:43 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:17
+[05-Apr-2022 17:19:43 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-blog-header.php:13
+[05-Apr-2022 17:19:43 UTC] PHP   4. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-load.php:50
+[05-Apr-2022 17:19:43 UTC] PHP   5. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-config.php:77
+[05-Apr-2022 17:19:43 UTC] PHP   6. include() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-settings.php:555
+[05-Apr-2022 17:19:43 UTC] PHP Fatal error:  Cannot redeclare particles_shortcode() (previously declared in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\functions.php:19) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 3
+[05-Apr-2022 17:19:43 UTC] PHP Stack trace:
+[05-Apr-2022 17:19:43 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:0
+[05-Apr-2022 17:19:43 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:17
+[05-Apr-2022 17:19:43 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-blog-header.php:13
+[05-Apr-2022 17:19:43 UTC] PHP   4. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-load.php:50
+[05-Apr-2022 17:19:43 UTC] PHP   5. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-config.php:77
+[05-Apr-2022 17:19:43 UTC] PHP   6. include() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-settings.php:555
+[05-Apr-2022 17:19:43 UTC] PHP Fatal error:  Cannot redeclare particles_shortcode() (previously declared in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\functions.php:19) in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 3
+[05-Apr-2022 17:19:43 UTC] PHP Stack trace:
+[05-Apr-2022 17:19:43 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:0
+[05-Apr-2022 17:19:43 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php:17
+[05-Apr-2022 17:19:43 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-blog-header.php:13
+[05-Apr-2022 17:19:43 UTC] PHP   4. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-load.php:50
+[05-Apr-2022 17:19:43 UTC] PHP   5. require_once() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-config.php:77
+[05-Apr-2022 17:19:43 UTC] PHP   6. include() C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-settings.php:555
+[05-Apr-2022 17:30:47 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:30:47 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:30:47 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:30:48 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:30:48 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:30:48 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:31:18 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:31:18 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:31:18 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:31:18 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:31:18 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:31:18 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:33:37 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:33:37 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:33:37 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:33:37 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:33:37 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:33:37 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 6
+[05-Apr-2022 17:38:14 UTC] PHP Parse error:  syntax error, unexpected '$image' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[05-Apr-2022 17:38:14 UTC] PHP Parse error:  syntax error, unexpected '$image' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[05-Apr-2022 17:38:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[05-Apr-2022 17:38:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[05-Apr-2022 17:38:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[05-Apr-2022 17:38:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[05-Apr-2022 17:39:19 UTC] PHP Parse error:  syntax error, unexpected '$image' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[05-Apr-2022 17:39:19 UTC] PHP Parse error:  syntax error, unexpected '$image' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[05-Apr-2022 17:39:21 UTC] PHP Parse error:  syntax error, unexpected '$image' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[05-Apr-2022 17:39:21 UTC] PHP Parse error:  syntax error, unexpected '$image' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 8
+[06-Apr-2022 14:12:06 UTC] PHP Parse error:  syntax error, unexpected '$getImage' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:12:06 UTC] PHP Parse error:  syntax error, unexpected '$getImage' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:12:45 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:12:45 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:17:58 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php:10
+Stack trace:
+#0 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-includes\shortcodes.php(356): particles_shortcode('', '', 'particles')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(partic...', 'do_shortcode_ta...', '[particles]')
+#3 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\page-example-one.php(3): do_shortcode('[particles]')
+#4 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\COBNET...')
+#5 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\COBNET...')
+#6 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php(17): require('C:\\Users\\COBNET...')
+#7 in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:18:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php:10
+Stack trace:
+#0 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-includes\shortcodes.php(356): particles_shortcode('', '', 'particles')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(partic...', 'do_shortcode_ta...', '[particles]')
+#3 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\page-example-one.php(3): do_shortcode('[particles]')
+#4 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\COBNET...')
+#5 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\COBNET...')
+#6 C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\index.php(17): require('C:\\Users\\COBNET...')
+#7 in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:20:18 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:20:18 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:20:27 UTC] PHP Parse error:  syntax error, unexpected 'getImage' (T_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:20:27 UTC] PHP Parse error:  syntax error, unexpected 'getImage' (T_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:20:29 UTC] PHP Parse error:  syntax error, unexpected 'getImage' (T_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:20:29 UTC] PHP Parse error:  syntax error, unexpected 'getImage' (T_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:21:33 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:21:33 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:21:36 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:21:36 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 10
+[06-Apr-2022 14:22:01 UTC] PHP Parse error:  syntax error, unexpected '' " id="particles" alt="partic' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 14
+[06-Apr-2022 14:22:02 UTC] PHP Parse error:  syntax error, unexpected '' " id="particles" alt="partic' (T_CONSTANT_ENCAPSED_STRING), expecting ';' in C:\Users\COBNETCKNN\Local Sites\stagingsite\app\public\wp-content\themes\stagingTheme\custom-shortcodes.php on line 14
